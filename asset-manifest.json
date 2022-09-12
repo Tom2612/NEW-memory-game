@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NEW-memory-game/static/css/main.cfd22cda.css",
+    "main.js": "/NEW-memory-game/static/js/main.eb397902.js",
+    "index.html": "/NEW-memory-game/index.html",
+    "main.cfd22cda.css.map": "/NEW-memory-game/static/css/main.cfd22cda.css.map",
+    "main.eb397902.js.map": "/NEW-memory-game/static/js/main.eb397902.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfd22cda.css",
+    "static/js/main.eb397902.js"
+  ]
+}
